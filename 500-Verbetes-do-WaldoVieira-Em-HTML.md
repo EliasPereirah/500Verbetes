@@ -1,4 +1,4 @@
-# 500 Verbetes da Conscienciologia em HTML
+# 500 Verbetes do Waldo Vieira em HTML
 
 - [Abertismo Consciencial](https://icge.org.br/verbetes/abertismo-consciencial)
 - [Abordagem Consciencial](https://icge.org.br/verbetes/abordagem-consciencial)
